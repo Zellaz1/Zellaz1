@@ -6,6 +6,9 @@ https://github.com/anuraghazra/github-readme-stats
 
 
 ### Olá, meu nome é Pedro Gonzalez 👋
+#### 💻 Desenvolvedor 
+#### 🛡️ Estudo Cyber Security
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/pedrokrt/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
